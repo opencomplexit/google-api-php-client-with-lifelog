@@ -25,3 +25,6 @@
   
  src/Config.php:
    Added Lifelog configurations.
+
+ README.md
+   Changed to match the modifications.

@@ -2,7 +2,9 @@
 # Google APIs Client Library for PHP with Lifelog #
 
 ## Description ##
-The Google API Client Library with Lifelog enables you to work with Sony Lifelog and also Google APIs such as Google+, Drive, or YouTube on your server.
+The Google API Client Library with Lifelog enables you to work with Sony Lifelog and also Google APIs such as Google+, Drive, or YouTube on your server. 
+
+NOTE! This is NOT a project by Google or Sony.
 
 ## Development version ##
 This library is in development version. This can be seen as a proof of concept, but will hopefully be more mature in the future. It is based on Google Client v.1.1.5 (beta), https://github.com/google/google-api-php-client.
